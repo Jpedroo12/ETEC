@@ -6,7 +6,8 @@ public class Algoritmo_11{
 		System.out.println("Digite o valor original do veículo.");
 		preco=ler.nextDouble();
 		ipva= preco* 0.04;
-        System.out.println("O preço do ipva é:" + ipva);
+                System.out.println("O preço do ipva é:" + ipva);
         
 	}
+	ler.close();
 }
