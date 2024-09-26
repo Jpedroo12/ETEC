@@ -10,5 +10,5 @@ public class Algoritmo_04 {
 		idade= aa-adn;
 		System.out.println("A sua idade é "+idade);
 	}
-
+	ler.close();
 }
