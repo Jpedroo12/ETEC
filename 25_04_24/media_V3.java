@@ -14,6 +14,7 @@ public class Algoritmo_13 {
 		nota3=ler.nextInt();
 		media=(nota1+nota2+nota3)/3;
 		System.out.println ("Sua média é = " +media);
-   }
+	}
+	ler.close();
 
 }
