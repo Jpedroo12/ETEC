@@ -6,7 +6,8 @@ public class Algoritmo_10{
 		System.out.println("Digite o número de metros");
 		metros=ler.nextDouble();
 		quilômetros=metros/1000;
-        System.out.println("O número de metros em quilômetros é:" + quilômetros);
+                System.out.println("O número de metros em quilômetros é:" + quilômetros);
         
 	}
+	ler.close();
 }
