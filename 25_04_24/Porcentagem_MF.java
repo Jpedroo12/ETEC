@@ -10,8 +10,9 @@ public class Algoritmo_15{
 		Total= AM+AF;
 		PORM= ((AM*100)/Total);
 		PORF= ((AF*100)/Total);
-        System.out.println("A porcentagem de meninas é: " + PORM );       
-        System.out.println("A porcentagem de meninos é: " + PORF );
+                System.out.println("A porcentagem de meninas é: " + PORM );       
+                System.out.println("A porcentagem de meninos é: " + PORF );
         
 	}
+	ler.close();
 }
