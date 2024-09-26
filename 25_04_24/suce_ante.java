@@ -9,7 +9,7 @@ public class Algoritmo_09{
 		numeroSuc= numeroint+ 1;
         System.out.println("o numero sucessor é " + numeroSuc);
         System.out.println("o numero antecessor é " + numeroAnt);
-
         
 	}
+	ler.close();
 }
