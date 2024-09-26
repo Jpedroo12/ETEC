@@ -14,4 +14,5 @@ public class Algoritmo_06 {
 		System.out.println("A quantidade de meses é " +meses);
 			
 	}
+	ler.close();
 }
