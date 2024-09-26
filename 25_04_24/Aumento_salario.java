@@ -7,9 +7,9 @@ public class Algoritmo_03 {
 		
 		System.out.println("Digite o salário atual");
 		salarioAtual=ler.nextInt() ;
-        aumento=salarioAtual/100*12;
-        salarioNovo=aumento+salarioAtual;
-        System.out.println("Seu salário novo é: " + salarioNovo);
+                aumento=salarioAtual/100*12;
+                salarioNovo=aumento+salarioAtual;
+                System.out.println("Seu salário novo é: " + salarioNovo);
 	}
-	
+	ler.close();
 }
