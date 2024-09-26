@@ -9,9 +9,6 @@ public class Algoritmo_07 {
 		desconto=produto*0.05;
 		produtoNovo=produto-desconto;
 		System.out.println("O valor do produto com desconto é " + produtoNovo);
-    
-
 	}
-
-
+	ler.close();
 }
