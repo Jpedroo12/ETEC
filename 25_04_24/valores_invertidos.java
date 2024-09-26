@@ -14,4 +14,5 @@ public class Algoritmo_05 {
 	System.out.println("Os valores invertidos são: " + a + "," + b );
 	
 	}
+	ler.close();
 }
