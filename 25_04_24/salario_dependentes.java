@@ -11,7 +11,7 @@ public class Algoritmo_12 {
 		novo=salario+(depen*55);
 		System.out.println ("Seu salario com dependentes é " +novo );
 				
-		
 	}
+	ler.close();
 
 }
