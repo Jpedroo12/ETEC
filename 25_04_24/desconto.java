@@ -10,7 +10,7 @@ public class Algoritmo_14 {
 		valorDesc=(desc/100)*preco;
 		prod=preco-valorDesc;
 		System.out.println("O valor do seu produto com desconto é " + prod);
-	
-  }
+	}
+	ler.close();
 
 }
