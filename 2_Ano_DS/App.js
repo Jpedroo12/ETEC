@@ -42,26 +42,26 @@ export default function App() {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: "#f5f5f5",
+    backgroundColor: '#f5f5f5',
     flex: 1,
     padding: 20,
-    alignItems: "center",
+    alignItems: 'center',
   },
   nome: {
     fontSize: 20,
-    fontWeight: "bold",
+    fontWeight: 'bold',
     marginBottom: 20,
   },
   bloco: {
-    backgroundColor: "#fff",
-    width: "100%",
+    backgroundColor: '#fff',
+    width: '100%',
     padding: 10,
     marginBottom: 15,
     borderRadius: 8,
   },
   titulo: {
     fontSize: 16,
-    fontWeight: "bold",
+    fontWeight: 'bold',
     marginBottom: 5,
   },
 });
